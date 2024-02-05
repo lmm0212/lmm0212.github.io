@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: happywangmakeit/happywangmakeit.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  happywangmakeit
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -61,9 +61,9 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  happywangmakeit/happywangmakeit
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/happywangmakeit/happywangmakeit.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
