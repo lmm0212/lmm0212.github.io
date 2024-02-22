@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Xiaole Wang(王效乐）
+name: Xiaole Wang
 title: Undergraduate student of Peking University
 email: wangxiaole0401@gmail.com
 website: www.github.com/happywangmakeit
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name's Xiaole Wang and I'm a sophomore student majoring in Intelligent science and technology at Peking University. 
+ Hi, my name's Xiaole Wang(王效乐) and I'm a sophomore student majoring in Intelligent science and technology at Peking University. 
  
  Now I'm learning <mark>computer vision</mark> and <mark>normal language processing</mark>, and I'm also interested in other cutting-edge technology in AI field! 
 
