@@ -84,21 +84,21 @@ content:
         quote: >
           Deep-video Lab
         description: | # this will include new lines to allow paragraphs
-          I'm working as Professor Sun Jun's intern in Deep-video Lab. My research direction is Quantative and I'm a beginner for it.
+          I'm working as Professor Sun Jun's intern in Deep-video Lab. My research direction is <mark>Quantative</mark> and I'm a beginner for it.
             
-  # - title: Education # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       title: Harvard University
-  #       caption: 2010 - 2013
-  #       sub_title: BSc Computer Science
-  #       quote: >
-  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  #       description: | # this will include new lines to allow paragraphs
-  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Peking University
+        caption: 2021 - Present
+        sub_title: Intelligent science and technology(with a double major in economics)
+        quote: >
+          Established in 1898
+        description: | # this will include new lines to allow paragraphs
+          2022.6 - 2023.6 Minister of Public Relations, Student Union, School of Government Management
+          2022.10 - 2023.6 Minister of Life Department of Peking University Student Union
+          National Encouragement Scholarship, Peking University third-class Scholarship, Peking University Merit student and other awards。
 
   # - title: A Little More About Me
   #   layout: text
