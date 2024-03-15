@@ -91,7 +91,7 @@ content:
     content:
       - layout: left
         title: Peking University
-        caption: 2021 - Present
+        caption: September 2021 - Present
         sub_title: Intelligent science and technology(with a double major in economics)
         quote: >
           Established in 1898
@@ -100,7 +100,7 @@ content:
           
           2022.6 - 2023.6 Minister of Public Relations, Student Union, School of Government Management
           
-          National Encouragement Scholarship, Peking University third-class Scholarship, Peking University Merit student and other awards。
+          <mark>Previous Awards</mark>:  National Encouragement Scholarship, Peking University third-class Scholarship, Peking University Merit student, Third prize of Peking University Challenge Cup and other awards。
 
   # - title: A Little More About Me
   #   layout: text
