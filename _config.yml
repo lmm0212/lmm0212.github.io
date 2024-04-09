@@ -72,7 +72,7 @@ content:
   - title: Her boyfriend # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      ![Trees](images/landscape-trees.jpg "Trees")
+      # ![Trees](images/landscape-trees.jpg "Trees")
       - layout: right
         title: Photo by the Corn tower of Zhengzhou
         # link: https://deepvideolab.top/
