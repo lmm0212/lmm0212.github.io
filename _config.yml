@@ -69,21 +69,21 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Her boyfriend # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: right
-        title: Photo by the Corn tower of Zhengzhou
-        # link: https://deepvideolab.top/
-        # link_text: Happy day!
-        sub_title: Happy day!
-        caption: 31 March 2024
-        quote: >
-          Happy day!
-        description: | # this will include new lines to allow paragraphs
-          Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
+  # - title: Her boyfriend # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: right
+  #       title: Photo by the Corn tower of Zhengzhou
+  #       # link: https://deepvideolab.top/
+  #       # link_text: Happy day!
+  #       sub_title: Happy day!
+  #       caption: 31 March 2024
+  #       quote: >
+  #         Happy day!
+  #       description: | # this will include new lines to allow paragraphs
+  #         Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
 
-      ![Trees](images/landscape-trees.jpg "Trees")
+  #     ![Trees](images/landscape-trees.jpg "Trees")
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
@@ -103,16 +103,13 @@ content:
   - title: A happy day!
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - layout: right
-        sub_title: Happy day!
-        caption: 31 March 2024
-        quote: >
-          Happy day!
-        description: | # this will include new lines to allow paragraphs
-          Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
+        - caption: 31 March 2024
+
+
+        - Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
 
       Look at this cool image!  
-      ![Trees](images/landscape-trees.jpg "Photo by the Corn tower of Zhengzhou")
+      ![Trees](images/boy.jpg "Photo by the Corn tower of Zhengzhou")
 
 # Footer
 footer_show_references: true
