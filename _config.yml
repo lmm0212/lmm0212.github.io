@@ -1,22 +1,22 @@
 # Site
-repository: happywangmakeit/happywangmakeit.github.io
+repository: lmm0212/lmm0212.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Xiaole Wang
-title: Undergraduate student of Peking University
-email: wangxiaole0401@gmail.com
-website: www.github.com/happywangmakeit
+name: 刘蔓蔓
+title: The most beautiful girl of FanXian
+email: 3055066676@qq.com
+website: www.github.com/lmm0212
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  happywangmakeit
+github_username:  lmm0212
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -48,10 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name's Xiaole Wang(王效乐) and I'm a sophomore student majoring in Intelligent science and technology(and a double major in economics) at Peking University. 
- 
- Now my research interest mainly fall in <mark>Quantitative trading</mark> and <mark>Computer vision</mark>, and I'm also interested in other cutting-edge technology in AI field! 
-
+ The web belongs to Liu Manman(刘蔓蔓）, a beautiful girl studying in North China University of Water Resources and Electric Power. Besides, She is also the most pretty girl in the world.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -72,35 +69,36 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+  - title: Her boyfriend # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Wangxuan institute of Computer Science
-        link: https://deepvideolab.top/
-        link_text: deepvideolab
-        sub_title: Intern Student
-        caption: March 2024 - Present
+      ![Trees](images/landscape-trees.jpg "Trees")
+      - layout: right
+        title: Photo by the Corn tower of Zhengzhou
+        # link: https://deepvideolab.top/
+        # link_text: Happy day!
+        sub_title: Happy day!
+        caption: 31 March 2024
         quote: >
-          Deep-video Lab
+          Happy day!
         description: | # this will include new lines to allow paragraphs
-          I'm working as Professor Sun Jun's intern in Deep-video Lab. My research direction is <mark>Quantative</mark> and I'm a beginner for it.
+          Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
             
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Peking University
-        caption: September 2021 - Present
-        sub_title: Intelligent science and technology(with a double major in economics)
-        quote: >
-          Established in 1898
-        description: | # this will include new lines to allow paragraphs
-          2022.10 - 2023.6 Minister of Life Department of Peking University Student Union
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Peking University
+  #       caption: September 2021 - Present
+  #       sub_title: Intelligent science and technology(with a double major in economics)
+  #       quote: >
+  #         Established in 1898
+  #       description: | # this will include new lines to allow paragraphs
+  #         2022.10 - 2023.6 Minister of Life Department of Peking University Student Union
           
-          2022.6 - 2023.6 Minister of Public Relations, Student Union, School of Government Management
+  #         2022.6 - 2023.6 Minister of Public Relations, Student Union, School of Government Management
           
-          <mark>Previous Awards</mark>:  National Encouragement Scholarship, Peking University third-class Scholarship, Peking University Merit student, Third prize of Peking University Challenge Cup and other awards。
+  #         <mark>Previous Awards</mark>:  National Encouragement Scholarship, Peking University third-class Scholarship, Peking University Merit student, Third prize of Peking University Challenge Cup and other awards。
 
   # - title: A Little More About Me
   #   layout: text
