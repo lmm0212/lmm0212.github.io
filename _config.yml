@@ -72,7 +72,6 @@ content:
   - title: Her boyfriend # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # ![Trees](images/landscape-trees.jpg "Trees")
       - layout: right
         title: Photo by the Corn tower of Zhengzhou
         # link: https://deepvideolab.top/
@@ -83,7 +82,8 @@ content:
           Happy day!
         description: | # this will include new lines to allow paragraphs
           Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
-            
+
+      [Trees](images/landscape-trees.jpg "Trees")
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
