@@ -83,7 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
 
-      [Trees](images/landscape-trees.jpg "Trees")
+      # [Trees](images/landscape-trees.jpg "Trees")
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
@@ -100,17 +100,17 @@ content:
           
   #         <mark>Previous Awards</mark>:  National Encouragement Scholarship, Peking University third-class Scholarship, Peking University Merit student, Third prize of Peking University Challenge Cup and other awards。
 
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #     - Rock climbing
-  #     - Gaming
-  #     - Knitting
-  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  #     # Look at this cool image  
-  #     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Look at this cool image  
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
