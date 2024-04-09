@@ -103,10 +103,8 @@ content:
   - title: A happy day!
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - caption: 31 March 2024
-
-
-        - Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
+        - 31 March 2024
+        Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
 
       Look at this cool image!  
       ![Trees](images/boy.jpg "Photo by the Corn tower of Zhengzhou")
