@@ -110,6 +110,16 @@ content:
       Look at this cool image!  
       ![us](images/anphoto.png "Photo by the Corn tower of Zhengzhou")
 
+  - title: A cute video
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - March 31 2024
+
+      I'm so cute!
+      
+      Look at this cool video!  
+      ![us](images/dance.mp4 "我真可爱")
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
