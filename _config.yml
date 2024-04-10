@@ -118,7 +118,7 @@ content:
       I'm so cute!
       
       Look at this cool video!  
-      ![us](images/cute.png "我真可爱")
+      <img src="images/cute.png" alt="我真可爱" style="width: 200px; height: 300px;">
 
 # Footer
 footer_show_references: true
