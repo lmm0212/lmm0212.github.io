@@ -110,7 +110,7 @@ content:
       Look at this cool image!  
       <img src="images/anphoto.png" alt="Photo by the Corn tower of Zhengzhou" style="width: 400px; height: 250px;">
 
-  - title: A cute Picture
+  - title: A cute video
     layout: text
     content: | # this will include new lines to allow paragraphs
       - April 10 2024
