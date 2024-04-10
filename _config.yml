@@ -113,12 +113,12 @@ content:
   - title: A cute video
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - March 31 2024
+      - April 10 2024
 
       I'm so cute!
       
       Look at this cool video!  
-      ![us](images/dance.mp4 "我真可爱")
+      ![us](images/cute.png "我真可爱")
 
 # Footer
 footer_show_references: true
