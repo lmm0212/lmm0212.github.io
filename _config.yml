@@ -108,17 +108,15 @@ content:
       Today We go to visit the famous Corn tower in Zhengzhou! We have a happy time and see an amazing landscape of the tower! With the delight mood, we ask the passer-by to help us take the photo of two.
 
       Look at this cool image!  
-      # ![us](images/anphoto.png "Photo by the Corn tower of Zhengzhou")
       <img src="images/anphoto.png" alt="Photo by the Corn tower of Zhengzhou" style="width: 600px; height: 400px;">
 
-  - title: A cute video
+  - title: A cute Picture
     layout: text
     content: | # this will include new lines to allow paragraphs
       - April 10 2024
 
       I'm so cute!
       
-      Look at this cool video!  
       <img src="images/cute.png" alt="我真可爱" style="width: 400px; height: 600px;">
 
 # Footer
